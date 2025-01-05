@@ -15,6 +15,5 @@ Additionally, I am continuously accepting applications for postdoctoral research
 
 News
 ======
-```mermaid
-    2024.12: Joined [Physics Department, Nanjing University](https://physics.nju.edu.cn) as an Associate Professor.
-```
+- 2024.12: Joined [Physics Department, Nanjing University](https://physics.nju.edu.cn) as an Associate Professor.
+
