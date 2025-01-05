@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Education and Employment
+======    	
+- 2019.07-2024.12  University of Wisconsin-Madison	PostDoc
+- 2013.10-2019.06  University of Bonn	Ph.D
+- 2010.09-2013.07  University of Chinese Academy of Sciences	Master
+- 2006.09-2010.07  Tianjin University	Bachelor
 
-Work experience
+Awards and Honors
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- 2023	Nanjing University's "Pinnacing Talent Support Program" Level B
+- 2024	Excellent Young Scientists Fund
+- 2024	"Zhicheng Young Professor" of Nanjing University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+You can find my CV [here](../assets/CV_RuiZhang_2024.pdf).
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
