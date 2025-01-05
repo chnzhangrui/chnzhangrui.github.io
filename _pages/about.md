@@ -16,18 +16,5 @@ Additionally, I am continuously accepting applications for postdoctoral research
 News
 ======
 ```mermaid
-    title 时间轴
-    2023年 : 项目A启动
-    2023年 : 完成阶段1
-    2022年 : 研究B发表
-    2022年 : 获得XX奖项
-    2021年 : 加入XX团队
-    2021年 : 开始研究C
+    2024.12: Joined [Physics Department, Nanjing University](https://physics.nju.edu.cn) as an Associate Professor.
 ```
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```%
