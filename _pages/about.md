@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,18 +16,6 @@ Additionally, I am continuously accepting applications for postdoctoral research
 News
 ======
 ```mermaid
-    title 时间轴
-    2023年 : 项目A启动
-    2023年 : 完成阶段1
-    2022年 : 研究B发表
-    2022年 : 获得XX奖项
-    2021年 : 加入XX团队
-    2021年 : 开始研究C
-```
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+title News
+    2024.12: Joined Physics Departement, Nanjing University as an Associate Professor.
 ```
