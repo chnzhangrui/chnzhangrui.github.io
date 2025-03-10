@@ -19,4 +19,4 @@ ATLAS Collaboration, "Software and computing for Run 3 of the ATLAS experiment a
 Attended Qibin Liu's PhD thesis defense at Tsung-Dao Lee Inst., Shanghai.
 Congratulations to Qibin on this major academic milestone!
 
---- bottom ---
+---
