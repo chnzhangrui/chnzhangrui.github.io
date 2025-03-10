@@ -1,3 +1,13 @@
+---
+layout: archive
+title: "News"
+permalink: /news/
+author_profile: true
+redirect_from:
+  - /news
+---
+{% include base_path %}
+
 - 2025.3.10
 
 First publication since joining Nanjing University highlights my work as a convener for Fast Calorimeter Simulation Group and the application of the machine learning-based FastCaloGAN method in ATLAS Run 3 simulation.
