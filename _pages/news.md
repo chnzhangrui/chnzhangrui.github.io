@@ -8,6 +8,14 @@ redirect_from:
 ---
 {% include base_path %}
 
+- 2025.6.5
+
+The white paper for machine learning-assisted calorimeter challenge has been accepted in Reports on Progress in Physics.
+It summarises the state-of-the-art technologies used in fast calorimeter solution task in HEP.
+Many of these technologies are now being developing in real experiments such as the ATLAS.
+
+"CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation", [arXiv:2410.21611](https://arxiv.org/abs/2410.21611).
+
 - 2025.3.10
 
 First publication since joining Nanjing University highlights my work as a convener for Fast Calorimeter Simulation Group and the application of the machine learning-based FastCaloGAN method in ATLAS Run 3 simulation.
