@@ -16,6 +16,13 @@ Many of these technologies are now being developing in real experiments such as 
 
 "CaloChallenge 2022: A Community Challenge for Fast Calorimeter Simulation", [arXiv:2410.21611](https://arxiv.org/abs/2410.21611).
 
+- 2025.4.5
+
+Breakthrough Prize in fundamental physics is awarded to more than 13000 scientists from ATLAS, CMS, ALICE and LHCb experiments at CERN.
+One of my work "[ATLAS combines searches for Higgs-pair production](https://atlas.cern/Updates/Briefing/Di-Higgs-Run2-Combination)" is in the physics highlights featured in ATLAS press statement.
+
+[ATLAS Collaboration awarded Breakthrough Prize in Fundamental Physics](https://atlas.cern/Updates/Press-Statement/Breakthrough-Prize)
+
 - 2025.3.10
 
 First publication since joining Nanjing University highlights my work as a convener for Fast Calorimeter Simulation Group and the application of the machine learning-based FastCaloGAN method in ATLAS Run 3 simulation.
