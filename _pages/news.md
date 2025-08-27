@@ -8,6 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+- 2025.8.27
+
+The project "Searching for Lorentz invariant violation phenomena ..." is funded by National Natural Science Foundation of China (NSFC) general funding starting on 2026-01-01.
+
 - 2025.6.5
 
 The white paper for machine learning-assisted calorimeter challenge has been accepted in Reports on Progress in Physics.
