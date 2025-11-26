@@ -8,6 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+- 2025.11.26
+
+The project "AI driven simulation for HEP ..." is funded by Nanjing Funding for Returned Researchers' Sci-Tech Innovation Projects starting on 2026-01-01.
+
 - 2025.8.27
 
 The project "Searching for Lorentz invariant violation phenomena ..." is funded by National Natural Science Foundation of China (NSFC) general funding starting on 2026-01-01.
