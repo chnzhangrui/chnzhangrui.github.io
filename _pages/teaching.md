@@ -11,6 +11,6 @@ author_profile: true
 - Dark Matter white paper: [talk](https://indico.ihep.ac.cn/event/28216/contributions/215204/attachments/101615/136165/wangzr20260417_Suzhou_NP.pdf#page=33)
 - Collider agent tutorial: [https://github.com/HET-AGI/ColliderAgent](https://github.com/HET-AGI/ColliderAgent)
 - $$H \to e\mu$$ analysis
-- SHbbyy PNN training
+- $$SH \to bb\gam\gam$$ Parameterised NN training
 - BESIII neutron fast simulation
 - ATLAS FCS training
